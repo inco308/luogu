@@ -1,0 +1,25 @@
+# 可执行文件
+*.exe
+*.out
+*.dll
+
+# 输出目录
+output/
+
+# IDE和编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 临时文件
+*.tmp
+*.temp
+
+# 日志文件
+*.log
