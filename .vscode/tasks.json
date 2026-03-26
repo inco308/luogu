@@ -7,7 +7,9 @@
       "command": "D:\\Dev-Cpp\\MinGW64\\bin\\g++.exe",
       "args": [
         "-fdiagnostics-color=always",
-        "-g",
+        "-Wall",
+        "-Wextra",
+        "-g3",
         "-std=c++11",
         "${file}",
         "-o",
